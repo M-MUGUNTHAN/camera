@@ -8,11 +8,4 @@
   --yellowgreen:#AEDB02;
   --graphwhite:#E9E7E2;
   --secondary-blue:#007AFF;
-  --p-font:"Times New Roman", Times, serif;
-  --s-font:Arial, Helvetica, sans-serif;
-}
-.app-container{
-  display: flex;
-  justify-content: center;
-  width: 100%;
 }
