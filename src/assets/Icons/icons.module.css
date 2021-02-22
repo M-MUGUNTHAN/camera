@@ -1,0 +1,10 @@
+.tick{
+    background: var(--green);
+    height: 17px;
+    width: 16px;
+    position: absolute;
+    top: -1px;
+    left: 0px;
+    fill: #fff;
+    border-radius: 2px;
+}
